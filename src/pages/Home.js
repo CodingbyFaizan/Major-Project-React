@@ -11,7 +11,6 @@ import IMAGES from './src/img/index.js';
 
 
 const Home = () => {
-    
 
     return (
         <div className='App'>
